@@ -1,0 +1,53 @@
+# Node / npm
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Rust / Tauri
+target/
+desktop/src-tauri/target/
+
+# Application builds
+dist/
+dist-macos/
+build/
+out/
+
+# PlatformIO
+.pio/
+
+# Arduino / ESP32 generated binaries
+*.bin
+*.elf
+*.map
+*.o
+*.obj
+
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Keys / certificates
+*.pem
+*.key
+*.p12
+*.pfx
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log

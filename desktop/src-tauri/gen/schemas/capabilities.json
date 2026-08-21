@@ -1,0 +1,1 @@
+{"main-capability":{"identifier":"main-capability","description":"Main ClipBridge desktop window permissions","local":true,"windows":["main"],"permissions":["core:default","dialog:default","opener:default","clipboard-manager:default","clipboard-manager:allow-read-image","clipboard-manager:allow-write-text"]}}
